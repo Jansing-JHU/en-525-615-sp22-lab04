@@ -277,12 +277,6 @@ Since the `GPIO_PIN_X` is a bit mask and this set of LEDs is on the same port, w
 * Update it with the following contents
 
 ```
-/* USER CODE BEGIN Includes */
-#include "main.h"
-/* USER CODE END Includes */
-```
-
-```
 /* USER CODE BEGIN Prototypes */
 void CUSTOM_GPIO_Init(void);
 /* USER CODE END Prototypes */
